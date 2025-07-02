@@ -5,7 +5,7 @@ Pitch smarter... Sell faster!
 Practise your sales pitch with AI and get simple, friendly feedback to boost your confidence.
 
 🌐 Live Demo
-👉https://niftynontas.github.io/Pitch-Pro-Mate/👈
+https://niftynontas.github.io/Pitch-Pro-Mate/
 
 🌟 Project Description
 PitchPro Mate is a lightweight AI-powered web tool designed to help aspiring salespeople practise and refine their pitches. The app provides:
