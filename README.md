@@ -7,8 +7,6 @@ Practise your sales pitch with AI and get simple, friendly feedback to boost you
 🌐 Live Demo
 👉 Try it Live Here! 👈
 
-Replace the link with your actual deployed project link!
-
 🌟 Project Description
 PitchPro Mate is a lightweight AI-powered web tool designed to help aspiring salespeople practise and refine their pitches. The app provides:
 
