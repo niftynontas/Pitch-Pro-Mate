@@ -34,9 +34,8 @@ All wrapped in a clean, mobile-friendly, user-friendly interface.
 
 🧹 Clear Chat Button: Start fresh with a simple click
 
-❤️ Footer Credit: Creator: Nontando Myoli
+🚀 How to Run :
 
-🚀 How to Run
 Open the index.html file in your browser
 
 Make sure your microphone is enabled for voice input
