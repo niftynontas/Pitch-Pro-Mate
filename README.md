@@ -1,4 +1,6 @@
 PitchPro Mate - Your AI Sales Buddy 🎤🤖
+
+
 Pitch smarter... Sell faster!
 Practise your sales pitch with AI and get simple, friendly feedback to boost your confidence.
 
