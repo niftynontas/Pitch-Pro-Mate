@@ -11,10 +11,15 @@ Practise your sales pitch with AI and get simple, friendly feedback to boost you
 PitchPro Mate is a lightweight AI-powered web tool designed to help aspiring salespeople practise and refine their pitches. The app provides:
 
 ✅ Instant feedback based on tone selection
+
 ✅ Random, human-like AI suggestions for improvement
+
 ✅ Keyword-sensitive feedback to encourage strong pitch elements
+
 ✅ Speech-to-text feature for voice-based pitching
+
 ✅ Helpful sales tips at the click of a button
+
 ✅ Day/Night mode toggle for accessibility and user comfort
 
 All wrapped in a clean, mobile-friendly, user-friendly interface.
