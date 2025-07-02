@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pitch-Pro Mate - Your AI Sales Buddy</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="container">
+   <div class="toggle-container">
+  <label class="switch">
+    <input type="checkbox" id="themeToggle">
+    <span class="slider"></span>
+  </label>
+  <span id="themeLabel">Day Mode</span>
+</div>
+ 
+        
+        <!-- Logo and App Name -->
+        <div class="header">
+            <img src="animated robot no background.png" alt="Robot Icon" class="logo">
+            <h1>Pitch-Pro Mate</h1>
+        </div>
+        
+        <!-- Tagline -->
+        <p class="tagline">Pitch smarter...Sell Faster</p>
+        <p class="tagline">Practise your sales pitch with AI and get simple,friendly feedback to boost your confidence!</p>
+
+        <!-- Tone Selector -->
+        <div class="tone-selector">
+            <label for="tone">Choose Pitch tone:</label>
+            <select id="tone">
+                <option value="confident">Confident</option>
+                <option value="friendly">Friendly</option>
+                <option value="persuasive">Persuasive</option>
+                <option value="formal">Formal</option>
+            </select>
+        </div>
+
+        <!-- Chat Window -->
+        <div class="chat-window" id="chatWindow">
+            <!-- Chat messages will appear here -->
+        </div>
+
+        <br>
+
+        <!-- Input Area -->
+        <textarea id="userInput" placeholder="Type your sales pitch here..."></textarea>
+        <br>
+        <button id="start-record-btn">🎤 Start Recording</button>
+        <br>
+
+        <!-- Buttons -->
+        <div class="buttons">
+            <button id="submitBtn">Submit Pitch</button>
+            <button id="clearChatBtn">Clear Chat</button>
+            <button id="getTipsBtn">Get Pitch Tips</button>
+
+
+        </div>
+
+        <!-- Loading Animation -->
+        <div class="loading" id="loading" style="display: none;">
+            <p>AI is thinking<span class="dots">...</span></p>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+    <br>
+<footer class="footer">
+  <p>© 2025 Nontando Myoli ❤️ All Rights Preserved.</p>
+</footer>
+
+</body>
+</html>
