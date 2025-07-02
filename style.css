@@ -224,4 +224,17 @@ body.night-mode .ai-msg {
 body.night-mode .footer {
   color: #1d7af3;
 }
+@media (max-width: 500px) {
+  .buttons {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+  }
+
+  .buttons button {
+    width: 90%;
+    margin: 5px 0;
+  }
+}
 
