@@ -49,7 +49,8 @@ Get instant AI-style feedback and tips
 
 No backend setup required — fully functional front-end prototype for demo purposes.
 
-🎯 Technologies Used
+🎯 Technologies Used:
+
 HTML5
 
 CSS3 (with animations and responsive design)
@@ -69,6 +70,7 @@ Mobile-first refinements
 
 Accessibility improvements (e.g., ARIA labels)
 
-👩🏽‍💻 Creator
-Built with ❤️ by Nontando Myoli
+👩🏽‍💻 Creator:
+
+Built by Nontando Myoli
 
